@@ -7,10 +7,10 @@ The consultation form is a disabled visual demo; requests are not sent or saved.
 ## Before a buyer launches
 
 - Personalize all bracketed labels, copy, biography and credentials in dist/index.html.
-- Replace example.com in the canonical URL, social URLs, structured data, robots.txt and sitemap.xml with the final host.
+- The current review host is https://therapy-mock-up.vercel.app. Replace it in the canonical URL, social URLs, structured data, robots.txt and sitemap.xml when moving to a buyer’s final host.
 - Adapt and regenerate the 1200 × 630 social image.
 - Connect the approved contact/form endpoints and test actual delivery.
 - Complete docs/website-launch-checklist.md, including final-domain HTTP/MIME, crawler and debugger verification.
 - Keep noindex while this is a template preview.
 
-The shared launch checklist is retained in this repository. No public website has been deployed from this repository yet.
+The shared launch checklist is retained in this repository. The Vercel review deployment uses the repository-root vercel.json to serve dist/ without a build step. It remains noindex.

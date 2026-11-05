@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 # Template preview uses a noindex meta tag.
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://therapy-mock-up.vercel.app/sitemap.xml
