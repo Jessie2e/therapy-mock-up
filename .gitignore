@@ -1,0 +1,6 @@
+.DS_Store
+work/
+.env
+.env.*
+!.env.example
+.openai/

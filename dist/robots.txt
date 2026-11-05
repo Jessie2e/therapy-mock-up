@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Template preview uses a noindex meta tag.
+Sitemap: https://example.com/sitemap.xml
